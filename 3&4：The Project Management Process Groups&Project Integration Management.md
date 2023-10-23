@@ -28,7 +28,7 @@ Daily Scrum: short meeting for the development team to share progress and challe
 Sprint reviews: meeting in which the team demonstrates to the product owner what it has completed during the sprint
 Sprint retrospectives: meeting in which the team looks for ways to improve the product and the process based on a review of the actual performance of the development team
 
-###### Chapter 4:Project Integration Management
+###### Chapter 4:Project Integration Management
 
 Main processes 
 Develop the project charter
